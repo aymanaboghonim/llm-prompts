@@ -8,17 +8,17 @@ This repository serves as a centralized library for useful prompt templates. The
 
 *   Ensure **consistency** in requests made to LLMs.
 *   Improve **efficiency** by having ready-made starting points.
-*   Document effective prompting **strategies** for specific outcomes (like reorganizing notes, summarizing text, generating code, etc.).
+*   Document effective prompting **strategies** for specific outcomes.
 
 ## Background & Inspiration
 
-The methodology behind crafting these prompts, particularly the focus on clear instructions and constraints while preserving factual integrity, draws inspiration from the knowledge-sharing principles and efficient workflows observed within the **El Mentor program** community.
+The methodology behind crafting these prompts, particularly the focus on clear instructions and constraints while preserving factual integrity, draws inspiration from the knowledge-sharing principles and efficient workflows observed within the **El Mentor program** ([view program repo](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/tree/main/source/mentoring-service)) community.
 
-Special credit goes to interactions and guidance from individuals like **Eng. Mohamed Radwan** and **Eng. Rehab Ragab**, whose emphasis on structured knowledge transfer and continuous improvement has influenced the approach taken here. The concept of reusability is central, aligning with the community's spirit of building upon shared understanding.
+Special credit goes to interactions and guidance from individuals like **Eng. Mohamed Radwan** ([@MohamedRadwan-DevOps](https://github.com/MohamedRadwan-DevOps)) and **Eng. Rehab Ragab** ([@RehabAbotalep](https://github.com/RehabAbotalep)), whose emphasis on structured knowledge transfer and continuous improvement has influenced the approach taken here. The concept of reusability is central, aligning with the community's spirit of building upon shared understanding.
 
 ## How to Use
 
-1.  Browse the `prompts` directory (or relevant folders as this grows).
+1.  Browse the `prompts` directory.
 2.  Find the prompt template suitable for your task (e.g., `reorganize_polish_notes.md`).
 3.  Copy the entire prompt content.
 4.  Paste it into your LLM interface (Gemini, ChatGPT, etc.).
@@ -27,7 +27,9 @@ Special credit goes to interactions and guidance from individuals like **Eng. Mo
 
 ## Current Prompts
 
-*   **`/prompts/reorganize_polish_notes.md`**: Instructs an LLM to reorganize, reformat, and polish raw text notes while preserving facts, credits, links, and avoiding summarization. Ideal for cleaning up meeting minutes, session notes, or drafts.
+*   **`/prompts/reorganize_polish_notes.md`**:
+    *   **Function:** Instructs an LLM to reorganize, reformat, and polish raw text notes while preserving facts, credits, links, and avoiding summarization.
+    *   **Target Use Case:** Ideal for cleaning up **session notes, course notes, meeting minutes,** or rough drafts for platforms like Microsoft Word, Teams posts, or general Markdown documents.
 
 *(This section will grow as you add more prompt files)*
 

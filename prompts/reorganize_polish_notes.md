@@ -1,42 +1,57 @@
-# LLM Prompts Library 🤖✨
+# --- LLM Prompt: Reorganize & Polish Notes ---
 
-A personal collection of reusable and refined prompts designed for effective interaction with Large Language Models (LLMs) across various tasks.
+## Subject:
+Reorganize and Polish Notes for [Platform Name]
 
-## Purpose
+## Goal:
+Please reorganize, reformat, and polish the following raw notes into a clear, well-structured text document suitable for reading and use on **[Platform Name - e.g., Microsoft Word, Microsoft Teams, Google Docs, a general document]**. The aim is to improve clarity, flow, and presentation without losing any original detail or meaning.
 
-This repository serves as a centralized library for useful prompt templates. The goal is to:
+## Input Notes:
+--- START OF NOTES ---
 
-*   Ensure **consistency** in requests made to LLMs.
-*   Improve **efficiency** by having ready-made starting points.
-*   Document effective prompting **strategies** for specific outcomes.
+[PASTE YOUR RAW NOTES HERE - Make sure to paste the actual notes in this section when using the prompt]
 
-## Background & Inspiration
+--- END OF NOTES ---
 
-The methodology behind crafting these prompts, particularly the focus on clear instructions and constraints while preserving factual integrity, draws inspiration from the knowledge-sharing principles and efficient workflows observed within the **El Mentor program** ([view program repo](https://github.com/MohamedRadwan-DevOps/devops-step-by-step/tree/main/source/mentoring-service)) community.
+## Core Actions Required:
 
-Special credit goes to interactions and guidance from individuals like **Eng. Mohamed Radwan** ([@MohamedRadwan-DevOps](https://github.com/MohamedRadwan-DevOps)) and **Eng. Rehab Ragab** ([@RehabAbotalep](https://github.com/RehabAbotalep)), whose emphasis on structured knowledge transfer and continuous improvement has influenced the approach taken here. The concept of reusability is central, aligning with the community's spirit of building upon shared understanding.
+1.  **Reorganize:**
+    *   Structure the content logically using clear headings (use Markdown `#` syntax, e.g., `## Section Title`, `### Subsection Title`), subheadings where appropriate.
+    *   Group related pieces of information together under relevant headings.
+    *   Ensure a natural and coherent flow between sections and paragraphs.
 
-## How to Use
+2.  **Reformat:**
+    *   Use standard Markdown formatting for lists (bullet points `*` or `-`, numbered lists `1.`, `2.`).
+    *   Ensure consistent paragraph spacing (usually one blank line between paragraphs).
+    *   Use **bold text** (`**bold**` or `__bold__`) or *italic text* (`*italic*` or `_italic_`) sparingly for emphasis on key terms or action items if appropriate, but maintain a professional tone.
+    *   Format any code snippets appropriately using Markdown code blocks (``` ```).
 
-1.  Browse the `prompts` directory.
-2.  Find the prompt template suitable for your task (e.g., `reorganize_polish_notes.md`).
-3.  Copy the entire prompt content.
-4.  Paste it into your LLM interface (Gemini, ChatGPT, etc.).
-5.  **Crucially:** Replace placeholder sections (like `[Platform Name]` or the area marked for pasting input notes) with your specific information.
-6.  Submit the prompt to the LLM.
+3.  **Polish Language:**
+    *   Improve sentence structure for better flow and readability. Break down overly long or complex sentences if necessary.
+    *   Correct minor grammatical errors, typos, or punctuation mistakes.
+    *   Replace awkward phrasing with clearer, more standard English where possible, using simple and common vocabulary.
+    *   Ensure consistent terminology is used throughout the document for the same concepts.
+    *   Maintain a professional and informative tone.
 
-## Current Prompts
+## CRITICAL Constraints (What NOT to Change):
 
-*   **`/prompts/reorganize_polish_notes.md`**:
-    *   **Function:** Instructs an LLM to reorganize, reformat, and polish raw text notes while preserving facts, credits, links, and avoiding summarization.
-    *   **Target Use Case:** Ideal for cleaning up **session notes, course notes, meeting minutes,** or rough drafts for platforms like Microsoft Word, Teams posts, or general Markdown documents.
+1.  **Maintain ALL Factual Information:**
+    *   Do **NOT** alter or omit any facts present in the original notes.
+    *   This includes specific names (people, products, features, etc.), dates, technical terms, jargon, numerical data, and specific policy details.
 
-*(This section will grow as you add more prompt files)*
+2.  **Preserve Credits & Attributions:**
+    *   If the notes mention who said something or attribute information (e.g., "By Eng. X:", "Source: Y"), this attribution **MUST** be accurately kept and clearly associated with the relevant information.
 
-## Contributing
+3.  **Maintain Links/URLs:**
+    *   All hyperlinks present in the original notes **MUST** be preserved correctly and function if possible within Markdown (e.g., `[Link Text](URL)`).
 
-Currently, this is a personal repository for organizing useful prompts. If you have suggestions or want to collaborate on refining these, feel free to open an Issue or reach out directly! The goal is always to improve and share effective techniques.
+4.  **DO NOT SUMMARIZE:**
+    *   The objective is to reorganize and enhance the clarity of the *existing details*, **NOT** to create a shorter summary or remove information. All original points must be represented.
 
-## License
+5.  **Preserve Core Meaning:**
+    *   The final polished text must accurately reflect the intended meaning and nuances of the original raw notes. Do not introduce interpretations or opinions not present in the source.
 
-This content is shared freely for personal and educational use.
+## Output Format:
+Provide the final, reorganized, and polished text formatted in clean, standard Markdown suitable for **[Platform Name]**. Ensure headings, lists, paragraphs, and any preserved links are correctly formatted.
+
+---
