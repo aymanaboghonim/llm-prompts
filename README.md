@@ -31,7 +31,7 @@ Special credit goes to interactions and guidance from individuals like **Eng. Mo
     *   **Function:** Instructs an LLM to reorganize, reformat, and polish raw text notes while preserving facts, credits, links, and avoiding summarization.
     *   **Target Use Case:** Ideal for cleaning up **session notes, course notes, meeting minutes,** or rough drafts for platforms like Microsoft Word, Teams posts, or general Markdown documents.
 
-*(This section will grow as you add more prompt files)*
+*(This section will grow as I add more prompt files)*
 
 ## Contributing
 
