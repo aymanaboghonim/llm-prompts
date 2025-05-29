@@ -31,6 +31,11 @@ Special credit goes to interactions and guidance from individuals like **Eng. Mo
     *   **Function:** Instructs an LLM to reorganize, reformat, and polish raw text notes while preserving facts, credits, links, and avoiding summarization.
     *   **Target Use Case:** Ideal for cleaning up **session notes, course notes, meeting minutes,** or rough drafts for platforms like Microsoft Word, Teams posts, or general Markdown documents.
 
+*   **`/prompts/github-profile-readme-creator.md`** ⭐ **NEW INTERACTIVE PROMPT**:
+    *   **Function:** Interactive, menu-driven prompt for creating professional GitHub profile READMEs with multiple approaches (scaffolding, step-by-step, template imitation, analysis-based, persona-driven).
+    *   **Target Use Case:** Perfect for developers, AI engineers, and professionals wanting to create compelling GitHub profiles using AI assistants like VS Code Copilot or ChatGPT.
+    *   **Features:** 5 different creation approaches, guided interviews, professional formatting, and customization options.
+
 *(This section will grow as I add more prompt files)*
 
 ## Contributing
