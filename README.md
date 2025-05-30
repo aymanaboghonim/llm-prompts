@@ -33,6 +33,14 @@ This repository serves as a centralized library for **production-ready prompt te
 - 📊 **Data-driven recommendations** based on actual projects
 - **Perfect for:** Developers, AI engineers, career changers
 
+### 🚀 **[Vite Website & Blog Creator](./prompts/vite-website-creator.md)** ✨ **NEW**
+> **Complete prompt for building modern personal websites and blogs**
+- ⚡ **Modern tech stack** (Vite, Bootstrap 5, GitHub Pages)
+- 🎨 **Professional portfolio sections** (Hero, About, Projects, Blog, Contact)
+- 📱 **Responsive design** with smooth animations
+- 🚀 **Deployment ready** for GitHub Pages
+- **Perfect for:** Developers, AI engineers, professionals building online presence
+
 ### 📝 **[Notes Reorganizer & Polish](./prompts/reorganize_polish_notes.md)**
 > **Transform messy notes into professional documentation**
 - 🔄 **Smart reorganization** while preserving all facts
